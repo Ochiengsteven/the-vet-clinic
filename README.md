@@ -198,6 +198,6 @@ I would like to thank microverse for giving me this opportunity to learn and bui
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/Ochiengsteven/the-vet-clinic/blob/create-animimals-table/LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
