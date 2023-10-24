@@ -156,8 +156,8 @@ To run the project:
 ## 👥 Author <a name="authors"></a>
 
 - GitHub: [@Ochiengsteven](https://github.com/Ochiengsteven)
-- Twitter: [@Ochiengsteven](https://twitter.com/twitterhandle)
-- LinkedIn: [Ochieng Steven](https://linkedin.com/in/Ochiengsteven)
+- Twitter: [@Ochiengsteven](https://twitter.com/legringo_madd)
+- LinkedIn: [Ochieng Steven](https://www.linkedin.com/in/steven-ochieng-a43125179/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
