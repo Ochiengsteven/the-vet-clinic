@@ -1,5 +1,6 @@
 CREATE DATABASE vet_clinic;
 
+-- create table and columns
 CREATE TABLE animals(
 	id int NOT NULL PRIMARY KEY,
 	name VARCHAR(25),
@@ -8,3 +9,7 @@ CREATE TABLE animals(
 	neutered BOOLEAN,
 	weight_kg DECIMAL
 );
+
+-- add column species
+ALTER TABLE animals
+ADD species VARCHAR(50);
