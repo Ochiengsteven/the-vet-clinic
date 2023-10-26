@@ -165,7 +165,6 @@ To run the project:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add animals' owners table**
 - [ ] **Add clinic employees table**
 - [ ] **Add visits table**
 
