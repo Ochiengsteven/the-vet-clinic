@@ -79,3 +79,8 @@ CREATE INDEX idx_animal_id ON visits(animal_id);
 
 -- Create an index on vet_id in the visits table
 CREATE INDEX idx_vet_id ON visits(vet_id);
+
+/* =========== Update "visits" table =========== */
+-- Rename visit_date column to date_of_visit to match insertion queries for data performance
+ALTER TABLE visits
+RENAME COLUMN visit_date TO date_of_visit;
