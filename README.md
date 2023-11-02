@@ -110,9 +110,13 @@ After you're finished please remove all the comments and instructions!
 - **Make queries to the tables**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-## 💻 ERD diagram <a name="ERD diagram"></a>
+
+## 💽 ERD diagram <a name="ERD diagram"></a>
 
 Here is the ERD diagram for the database showing the relationships between the tables:
+
+
+![vet clinic database erd](https://github.com/Ochiengsteven/the-vet-clinic/assets/91716656/f1b99409-4aaf-4ae5-98b2-9da697556df8)
 
 <!-- GETTING STARTED -->
 
